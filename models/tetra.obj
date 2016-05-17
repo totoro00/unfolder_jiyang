@@ -1,0 +1,9 @@
+# This obj file is created by byu2obj program. Jyh-Ming Lien
+v -1 0 0
+v 1 0 0
+v 0 1.73205080757 0
+v 0 0.57735026919 1.73205080757
+f 3 2 1
+f 1 2 4
+f 2 3 4
+f 1 4 3

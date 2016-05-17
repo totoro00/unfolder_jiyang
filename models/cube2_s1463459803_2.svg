@@ -1,0 +1,52 @@
+<?xml version="1.0"?>
+<svg width="599" height="998" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<defs>
+<style type="text/css"><![CDATA[
+.m {stroke:rgb(255,0,0);stroke-width:1.247500;}
+.v {stroke:rgb(0,0,255);stroke-width:1.247500;}
+.b {stroke:rgb(0,0,0);stroke-width:2.495000;fill:white}
+.n {stroke:rgb(128,128,128);stroke-width:1.247500}
+.t {stroke:rgb(0,128,0);stroke-width:1.247500;}
+.c {stroke:rgb(128,128,128);stroke-width:1.247500;stroke-dasharray:5.990000, 5.990000;}
+]]></style>
+</defs>
+<line x1="200.000000" y1="800.000000" x2="400.000000" y2="800.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="800.000000" x2="200.000000" y2="600.000000" class="n" style="stroke-width:0.249500;" />
+<line x1="200.000000" y1="600.000000" x2="200.000000" y2="800.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="600.000000" x2="200.000000" y2="600.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="800.000000" x2="400.000000" y2="600.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="600.000000" x2="200.000000" y2="400.000000" class="n" style="stroke-width:0.249500;" />
+<line x1="200.000000" y1="400.000000" x2="200.000000" y2="600.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="400.000000" x2="200.000000" y2="400.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="600.000000" x2="400.000000" y2="400.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="400.000000" x2="200.000000" y2="200.000000" class="n" style="stroke-width:0.249500;" />
+<line x1="200.000000" y1="200.000000" x2="200.000000" y2="400.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="200.000000" x2="200.000000" y2="200.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="400.000000" x2="400.000000" y2="200.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="200.000000" y1="0.000000" x2="200.000000" y2="200.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="200.000000" x2="200.000000" y2="0.000000" class="n" style="stroke-width:0.249500;" />
+<line x1="600.000000" y1="800.000000" x2="400.000000" y2="800.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="800.000000" x2="400.000000" y2="1000.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="1000.000000" x2="600.000000" y2="800.000000" class="n" style="stroke-width:0.249500;" />
+<line x1="600.000000" y1="800.000000" x2="400.000000" y2="600.000000" class="n" style="stroke-width:0.249500;" />
+<line x1="600.000000" y1="400.000000" x2="400.000000" y2="400.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="400.000000" y1="600.000000" x2="600.000000" y2="400.000000" class="n" style="stroke-width:0.249500;" />
+<line x1="200.000000" y1="800.000000" x2="0.000000" y2="600.000000" class="n" style="stroke-width:0.249500;" />
+<line x1="0.000000" y1="600.000000" x2="0.000000" y2="800.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="0.000000" y1="800.000000" x2="200.000000" y2="800.000000" class="m" style="stroke-width:1.996000;" />
+<line x1="200.000000" y1="600.000000" x2="0.000000" y2="600.000000" class="m" style="stroke-width:1.996000;" />
+<text x="297.604000" y="800.000000" transform="rotate(0.000000 297.604000 800.000000)" fill="darkgreen" font-weight="bold" font-size="11.980000">0</text>
+<text x="400.000000" y="897.604000" transform="rotate(89.999995 400.000000 897.604000)" fill="darkgreen" font-weight="bold" font-size="11.980000">0</text>
+<text x="102.396000" y="600.000000" transform="rotate(179.999990 102.396000 600.000000)" fill="darkgreen" font-weight="bold" font-size="11.980000">6</text>
+<text x="200.000000" y="497.604000" transform="rotate(89.999995 200.000000 497.604000)" fill="darkgreen" font-weight="bold" font-size="11.980000">6</text>
+<text x="0.000000" y="695.208000" transform="rotate(89.999995 0.000000 695.208000)" fill="darkgreen" font-weight="bold" font-size="11.980000">10</text>
+<text x="200.000000" y="295.208000" transform="rotate(89.999995 200.000000 295.208000)" fill="darkgreen" font-weight="bold" font-size="11.980000">10</text>
+<text x="400.000000" y="304.792000" transform="rotate(-89.999995 400.000000 304.792000)" fill="darkgreen" font-weight="bold" font-size="11.980000">11</text>
+<text x="504.792000" y="400.000000" transform="rotate(179.999990 504.792000 400.000000)" fill="darkgreen" font-weight="bold" font-size="11.980000">11</text>
+<text x="496.611544" y="903.388456" transform="rotate(-44.999998 496.611544 903.388456)" fill="darkgreen" font-weight="bold" font-size="11.980000">13</text>
+<text x="303.388456" y="103.388456" transform="rotate(-134.999993 303.388456 103.388456)" fill="darkgreen" font-weight="bold" font-size="11.980000">13</text>
+<text x="200.000000" y="95.208000" transform="rotate(89.999995 200.000000 95.208000)" fill="darkgreen" font-weight="bold" font-size="11.980000">14</text>
+<text x="95.208000" y="800.000000" transform="rotate(0.000000 95.208000 800.000000)" fill="darkgreen" font-weight="bold" font-size="11.980000">14</text>
+<text x="496.611544" y="503.388456" transform="rotate(-44.999998 496.611544 503.388456)" fill="darkgreen" font-weight="bold" font-size="11.980000">16</text>
+<text x="503.388456" y="703.388456" transform="rotate(-134.999993 503.388456 703.388456)" fill="darkgreen" font-weight="bold" font-size="11.980000">16</text>
+</svg>

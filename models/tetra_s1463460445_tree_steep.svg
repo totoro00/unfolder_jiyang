@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="816" height="748" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<defs>
+<style type="text/css"><![CDATA[
+.m {stroke:rgb(255,0,0);stroke-width:1.020000;}
+.v {stroke:rgb(0,0,255);stroke-width:1.020000;}
+.b {stroke:rgb(0,0,0);stroke-width:2.040000;fill:white}
+.n {stroke:rgb(128,128,128);stroke-width:1.020000}
+.t {stroke:rgb(0,128,0);stroke-width:1.020000;}
+.c {stroke:rgb(128,128,128);stroke-width:1.020000;stroke-dasharray:8.160000, 8.160000;}
+]]></style>
+</defs>
+<path fill="none" style="stroke:black;stroke-width:2.040000;" d=" M 667.284 377.532 L 535.111 0 M 535.111 0 L 274.246 303.231 M 816.311 748.734 L 667.284 377.532 M 402.938 699.175 L 816.311 748.734 M 274.246 303.231 L 0 594.417 M 0 594.417 L 402.938 699.175" />
+<path fill="none" class="c" d=" M 667.284 377.532 L 274.246 303.231 M 402.938 699.175 L 667.284 377.532 M 274.246 303.231 L 402.938 699.175" />
+<line x1="492.213744" y1="226.920997" x2="448.156039" y2="459.979362" class="t" />
+<line x1="628.844534" y1="608.480279" x2="448.156039" y2="459.979362" class="t" />
+<line x1="225.727923" y1="532.274506" x2="448.156039" y2="459.979362" class="t" />
+</svg>

@@ -1,0 +1,4 @@
+C:/Users/jiyang/Desktop/뻐꾸기/과제/Prof.Lien_160513/unfolder-master/unfolder-master/build/libs/itree/CMakeFiles/itree.dir
+C:/Users/jiyang/Desktop/뻐꾸기/과제/Prof.Lien_160513/unfolder-master/unfolder-master/build/src/CMakeFiles/unfolder.dir
+C:/Users/jiyang/Desktop/뻐꾸기/과제/Prof.Lien_160513/unfolder-master/unfolder-master/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/jiyang/Desktop/뻐꾸기/과제/Prof.Lien_160513/unfolder-master/unfolder-master/build/CMakeFiles/ZERO_CHECK.dir

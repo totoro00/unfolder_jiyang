@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="799" height="599" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<defs>
+<style type="text/css"><![CDATA[
+.m {stroke:rgb(255,0,0);stroke-width:0.998750;}
+.v {stroke:rgb(0,0,255);stroke-width:0.998750;}
+.b {stroke:rgb(0,0,0);stroke-width:1.997500;fill:white}
+.n {stroke:rgb(128,128,128);stroke-width:0.998750}
+.t {stroke:rgb(0,128,0);stroke-width:0.998750;}
+.c {stroke:rgb(128,128,128);stroke-width:0.998750;stroke-dasharray:7.990000, 7.990000;}
+]]></style>
+</defs>
+<path fill="none" style="stroke:black;stroke-width:1.997500;" d=" M 400 200 L 200 0 M 200 0 L 200 200 M 600 8.88178e-014 L 400 200 M 600 200 L 800 8.88178e-014 M 800 8.88178e-014 L 600 8.88178e-014 M 600 400 L 800 400 M 800 400 L 600 200 M 200 400 L 200 600 M 200 600 L 400 600 M 400 600 L 400 400 M 400 400 L 600 400 M 0 200 L 0 400 M 0 400 L 200 400 M 200 200 L 0 200" />
+<path fill="none" class="c" d=" M 200 400 L 400 400 M 200 200 L 200 400 M 400 200 L 200 200 M 400 400 L 400 200 M 600 200 L 400 200 M 600 400 L 600 200 M 600 200 L 600 8.88178e-014" />
+</svg>

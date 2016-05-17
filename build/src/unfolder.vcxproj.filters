@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Project ToolsVersion="12.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\model.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\Splitter.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\spatial_hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\unfolder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\OverlappingChecker.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\GL\gli.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\mathtool\Basic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\mathtool\Quaternion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\mathtool\Geometry.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\mathtool\Box.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\modelgraph\ModelEdge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\modelgraph\ModelGraph.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\modelgraph\ModelNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{D85E6C3A-C54A-3B1B-980E-A8AB43DFA720}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

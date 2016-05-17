@@ -1,0 +1,22 @@
+﻿Build started 2016-05-09 오전 2:04:58.
+     1>Project "C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\build\libs\itree\itree.vcxproj" on node 2 (Build target(s)).
+     1>CustomBuild:
+         Building Custom Rule C:/Users/jiyang/Desktop/뻐꾸기/과제/Prof.Lien_160513/unfolder-master/unfolder-master/libs/itree/CMakeLists.txt
+         CMake does not need to re-run because C:\Users\jiyang\Desktop\六먭씀湲?怨쇱젣\Prof.Lien_160513\unfolder-master\unfolder-master\build\libs\itree\CMakeFiles\generate.stamp is up-to-date.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\itree" /Zi /nologo /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _CRT_SECURE_NO_WARNINGS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"itree.dir\Debug\\" /Fd"itree.dir\Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\libs\itree\EndPoint.cpp" "C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\libs\itree\Interval.cpp" "C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\libs\itree\RectKD.cpp"
+         EndPoint.cpp
+         Interval.cpp
+         RectKD.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\build\libs\itree\Debug\itree.lib" /NOLOGO  /machine:X86 itree.dir\Debug\EndPoint.obj
+         itree.dir\Debug\Interval.obj
+         itree.dir\Debug\RectKD.obj
+     1>Interval.obj : warning LNK4221: This object file does not define any previously undefined public symbols, so it will not be used by any link operation that consumes this library
+         itree.vcxproj -> C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\build\libs\itree\Debug\itree.lib
+     1>Done Building Project "C:\Users\jiyang\Desktop\뻐꾸기\과제\Prof.Lien_160513\unfolder-master\unfolder-master\build\libs\itree\itree.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.90

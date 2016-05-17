@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="832" height="720" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<defs>
+<style type="text/css"><![CDATA[
+.m {stroke:rgb(255,0,0);stroke-width:1.040000;}
+.v {stroke:rgb(0,0,255);stroke-width:1.040000;}
+.b {stroke:rgb(0,0,0);stroke-width:2.080000;fill:white}
+.n {stroke:rgb(128,128,128);stroke-width:1.040000}
+.t {stroke:rgb(0,128,0);stroke-width:1.040000;}
+.c {stroke:rgb(128,128,128);stroke-width:1.040000;stroke-dasharray:8.320000, 8.320000;}
+]]></style>
+</defs>
+<path fill="none" style="stroke:black;stroke-width:2.080000;" d=" M 616.228 365.148 L 416.228 0 M 416.228 0 L 216.228 365.148 M 416.228 711.559 L 832.456 720.928 M 832.456 720.928 L 616.228 365.148 M 0 720.928 L 416.228 711.559 M 216.228 365.148 L 0 720.928" />
+<path fill="none" class="c" d=" M 616.228 365.148 L 216.228 365.148 M 416.228 711.559 L 616.228 365.148 M 216.228 365.148 L 416.228 711.559" />
+</svg>

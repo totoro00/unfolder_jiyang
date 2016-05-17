@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<svg width="816" height="748" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<defs>
+<style type="text/css"><![CDATA[
+.m {stroke:rgb(255,0,0);stroke-width:1.020000;}
+.v {stroke:rgb(0,0,255);stroke-width:1.020000;}
+.b {stroke:rgb(0,0,0);stroke-width:2.040000;fill:white}
+.n {stroke:rgb(128,128,128);stroke-width:1.020000}
+.t {stroke:rgb(0,128,0);stroke-width:1.020000;}
+.c {stroke:rgb(128,128,128);stroke-width:1.020000;stroke-dasharray:8.160000, 8.160000;}
+]]></style>
+</defs>
+<line x1="274.245652" y1="303.231181" x2="667.284348" y2="377.531810" class="m" style="stroke-width:1.924501;" />
+<line x1="667.284348" y1="377.531810" x2="535.111232" y2="0.000000" class="m" style="stroke-width:1.924501;" />
+<line x1="535.111232" y1="0.000000" x2="274.245652" y2="303.231181" class="m" style="stroke-width:1.924501;" />
+<line x1="816.311138" y1="748.733933" x2="667.284348" y2="377.531810" class="m" style="stroke-width:1.924501;" />
+<line x1="667.284348" y1="377.531810" x2="402.938116" y2="699.175095" class="m" style="stroke-width:1.957065;" />
+<line x1="402.938116" y1="699.175095" x2="816.311138" y2="748.733933" class="m" style="stroke-width:1.957065;" />
+<line x1="274.245652" y1="303.231181" x2="402.938116" y2="699.175095" class="m" style="stroke-width:1.957065;" />
+<line x1="274.245652" y1="303.231181" x2="0.000000" y2="594.417242" class="m" style="stroke-width:1.924501;" />
+<line x1="0.000000" y1="594.417242" x2="402.938116" y2="699.175095" class="m" style="stroke-width:1.957065;" />
+<text x="742.912463" y="565.909463" transform="rotate(-111.874010 742.912463 565.909463)" fill="darkgreen" font-weight="bold" font-size="14.960000">1</text>
+<text x="602.186445" y="191.589843" transform="rotate(-109.295040 602.186445 191.589843)" fill="darkgreen" font-weight="bold" font-size="14.960000">1</text>
+<text x="406.629717" y="149.347421" transform="rotate(130.704947 406.629717 149.347421)" fill="darkgreen" font-weight="bold" font-size="14.960000">2</text>
+<text x="139.174184" y="446.646140" transform="rotate(133.283917 139.174184 446.646140)" fill="darkgreen" font-weight="bold" font-size="14.960000">2</text>
+<text x="198.573323" y="646.043321" transform="rotate(14.573409 198.573323 646.043321)" fill="darkgreen" font-weight="bold" font-size="14.960000">4</text>
+<text x="606.653901" y="723.598357" transform="rotate(6.836498 606.653901 723.598357)" fill="darkgreen" font-weight="bold" font-size="14.960000">4</text>
+</svg>

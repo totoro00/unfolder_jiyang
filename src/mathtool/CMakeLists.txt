@@ -1,0 +1,7 @@
+set(APP_SRC
+    ${APP_SRC} 
+    ${CMAKE_CURRENT_SOURCE_DIR}/Basic.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Quaternion.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Geometry.cpp
+    ${CMAKE_CURRENT_SOURCE_DIR}/Box.cpp
+    PARENT_SCOPE)

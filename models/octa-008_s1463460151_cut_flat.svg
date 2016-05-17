@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="795" height="1381" version="1.1" xmlns="http://www.w3.org/2000/svg" >
+<defs>
+<style type="text/css"><![CDATA[
+.m {stroke:rgb(255,0,0);stroke-width:1.726250;}
+.v {stroke:rgb(0,0,255);stroke-width:1.726250;}
+.b {stroke:rgb(0,0,0);stroke-width:3.452500;fill:white}
+.n {stroke:rgb(128,128,128);stroke-width:1.726250}
+.t {stroke:rgb(0,128,0);stroke-width:1.726250;}
+.c {stroke:rgb(128,128,128);stroke-width:1.726250;stroke-dasharray:7.950000, 7.950000;}
+]]></style>
+</defs>
+<path fill="none" style="stroke:black;stroke-width:3.452500;" d=" M 197.98 691.627 L 0 1039.2 M 0 1039.2 L 397.98 1035.72 M 591.94 1383.25 L 795.96 1039.2 M 397.98 1035.72 L 591.94 1383.25 M 795.96 1039.2 L 597.98 691.627 M 597.98 691.627 L 397.98 347.534 M 0 344.058 L 197.98 691.627 M 204.02 0 L 0 344.058 M 603.959 6.98613 L 204.02 0 M 397.98 347.534 L 603.959 6.98613" />
+<path fill="none" class="c" d=" M 197.98 691.627 L 397.98 1035.72 M 397.98 1035.72 L 597.98 691.627 M 597.98 691.627 L 197.98 691.627 M 397.98 1035.72 L 795.96 1039.2 M 397.98 347.534 L 197.98 691.627 M 397.98 347.534 L 0 344.058 M 397.98 347.534 L 204.02 0" />
+</svg>
